@@ -2,6 +2,8 @@
 
 En ese repositorio se hablara acerca de  un antecendente que tenga relacion con la problematica comentada en el modulo 1 la cual es:
 
+              ¿Cómo influye el manejo de equipos eléctricos en mala condición o de referencias sin actualización 
+                          en el aprendizaje de los estudiantes de ingeniería biomédica de la UMB?
 
 De acuerdo a l aticulo publicado por Javier Fombona, Esteban Vázquez-Cano y José Reis-Jorge, el cual habla sobre los problemas informaticos en la universidad, me basare para complementar mi invetigacion
 
@@ -27,6 +29,7 @@ Siendo:
 - Universidad de Las Palmas de Gran Canaria (España)
 - Universidad Nacional Autónoma, Centro Atención a Usuarios – UNAM (México).
 - Usenix-Advencez Computing Systems Association (Estados Unidos).
+
 Para lograr la precisión descriptiva del estudio se realizó una medida global en función de la incidencia y del usuario, cuantificando las medias y frecuencias por ítem. Con este análisis se comprueba el grado, tipo y porcentaje de incidencias de forma diacrónica en los últimos siete cursos académicos de la universidad. Comparando el número total con la media del estadístico empleado (F de Snedecor), mediante las cuales comprobamos si hay cambios significativos en los tipos y periodicidad de las incidencias. Para comprobar posibles relaciones explicativas entre las variables hemos utilizado la técnica de Medidas de asociación y modelos log- lineales, utilizando tablas de contingencia. Esto se ha debido a que consideramos que la variable dependiente "incidencias informáticas" puede explicarse a partir de otros factores o variables independientes: personales, de uso, institucionales, contextuales, tipología del hardware y software. Se catalogan por taxonomías los registros e incidencias detectadas en 3300 equipos informáticos usados por 5784 profesores, alumnos y personal de administración educativa, y se presentan los datos observados de forma cuantitativa diacrónica desde 2008 con una perspectiva internacional y multi-institucional. La experiencia refleja las tendencias en los problemas más frecuentes, destaca la paulatina deslocalización de averías, la estabilización de problemas del hardware y de las redes, y el incremento de incidencias del software.
 
       PRINCIPALES RESULTADOS
@@ -39,12 +42,15 @@ Para lograr la precisión descriptiva del estudio se realizó una medida global 
 - Datos sobre las incidencias abordas a nivel de una facultad:
     El periodo analizado en este nivel de facultad no coincide con el año natural, fue el de los cursos 2010-11, 2011-12, 2011-13 y         2013-14. En estos periodos académicos se detecta un aumento general en determinados problemas, destacando los incrementos en             "Arreglar cableado", "Reciclaje/cambio de equipos y/o materiales", "Instalar/actualizar software", "Problemas de vídeo (proyectores,     monitores o pantallas múltiples)" e "Instalación completa de software/clonación de equipos". A fecha de finalización de la               investigación, se  recogen los datos de los seis últimos meses de 2014, como base a la proyección de tendencia al total del curso q     académico 2014-2015. Se verifican la relativa estabilidad o reducción de problemas con el hardware y los fallos de red. Y se             confirma la tendencia al alza de las incidencias en el software alcanzando el 76%, y adquieren especial trascendencia los problemas     de vídeo (proyectores, monitores o pantallas múltiples). 
 
-
+      
+      APORTES A LA PROBLEMATICA DE INVESTIGACION
+ De acuerdo a nuestra pregunta problema plateada en el modulo I, esta puede ser complementada y justificada, ya que en este antecedente previamente explicado en donde se afirma que si se presenta irregularidades en los equipos y dispotivos utilizados en la universidad, el rendimiento tanto estudiantil como de docentes se disminura notablemente y de acuerdo a la problematica vivida por los  estudiosos de la Universidad Manuela Beltran, se puede inferir en que la UMB no realiza adecuaciones o renovaciones en sus equipos tanto de laboratorios conmo en la aulas educativas. Esto se presenta porque no se invierte la cantidad necesaria de dinero en los recursos informaticos, para suplir las necesidades universitarias, pero esto se podria mejorar si se le otorgan a los estudiantes recursos para arrancar y avanzar con los semilleros de investigacion en cada facultad y asi, cuando se genren reconocimientos nacionales la Universidad reciba beneficios para mejor sus espacios tecnologicos y aumentar el nivel educativo de cada estudioso y el rendimiento de cada docente.
+ 
+      VACIO CONCEPTUAL
+¿Como puede la Universidad Manuela Beltran mejorar el bajo rendimientos de los dispositivos electricos o la falta de ellos en los laboratorios, si se mejora la oferta de semilleros universitarios? ¿Que actos tomaria la Universidad si se presentan una mayoria de personas inconformes con los elementos usados para aulas teoricas que no facilitan el aprendizaje de los estudiantes ni otorgan comodidades a cada docente para rendir en cada clase? ¿Que medidas se podrian tomar para que la Universidad otorge mayores espacios en areas de laboratorios o practicas libre, ya que la cantidad de estudiantes que requieren de estas aulas es mayor, con respecto al espacio que existe en ellas?
     
-    
-    
-    
-    
+    BIBLIOGRAFIA
+- Fombona, J., Vázquez-Cano, E., & Reis-Jorge, J. (2016). Los problemas de los recursos informáticos en el contexto universitario.         Retrieved from http://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S1850-00132016000200009
     
     
     
