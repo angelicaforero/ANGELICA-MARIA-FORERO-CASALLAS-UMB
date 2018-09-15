@@ -1,4 +1,4 @@
-# MODULO-ANGELICA-MARIA-FORERO-CASALLAS-UMB
+# ANGELICA-MARIA-FORERO-CASALLAS-UMB
 
 En ese repositorio se hablara acerca de  un antecendente que tenga relacion con la problematica comentada en el modulo 1 la cual es:
 
